@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { createRoot } from 'react-dom/client'
-import logo from './assets/cccog-logo.jpg'
-import pastor from './assets/pastor-columbus.jpg'
-import congregation from './assets/congregation.jpg'
+import logo from './cccog-logo.jpg'
+import pastor from './pastor-columbus.jpg'
+import congregation from './congregation.jpg'
 import './styles.css'
 
 const PHONE_DISPLAY = '+44 7446 007314'
