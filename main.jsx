@@ -9,7 +9,7 @@ const PHONE_DISPLAY = '+44 7446 007314'
 const PHONE_LINK = 'tel:+447446007314'
 const WHATSAPP_DISPLAY = '+234 805 790 3015'
 const WHATSAPP_LINK = 'https://wa.me/2348057903015'
-const FACEBOOK = 'https://www.facebook.com/cccog'
+const FACEBOOK = 'https://www.facebook.com/cccogimanchester'
 const YOUTUBE = 'https://youtube.com/@cccogimanchester'
 const MAPS = 'https://www.google.com/maps/search/?api=1&query=43-45+North+Street,+Cheetham+Hill,+Manchester,+M8+8RE'
 
